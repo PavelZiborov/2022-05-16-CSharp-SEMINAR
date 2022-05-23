@@ -1,0 +1,5 @@
+/Users/pavel/Documents/IT/2022-05-16_C#_seminar/zadacha002/obj/Debug/net6.0/zadacha002.csproj.AssemblyReference.cache
+/Users/pavel/Documents/IT/2022-05-16_C#_seminar/zadacha002/obj/Debug/net6.0/zadacha002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Documents/IT/2022-05-16_C#_seminar/zadacha002/obj/Debug/net6.0/zadacha002.AssemblyInfoInputs.cache
+/Users/pavel/Documents/IT/2022-05-16_C#_seminar/zadacha002/obj/Debug/net6.0/zadacha002.AssemblyInfo.cs
+/Users/pavel/Documents/IT/2022-05-16_C#_seminar/zadacha002/obj/Debug/net6.0/zadacha002.csproj.CoreCompileInputs.cache
